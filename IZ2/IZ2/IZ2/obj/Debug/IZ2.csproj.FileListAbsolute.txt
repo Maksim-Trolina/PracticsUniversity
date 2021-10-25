@@ -1,0 +1,10 @@
+C:\Users\Максим\Desktop\LabsForPractics\IZ2\IZ2\IZ2\bin\Debug\IZ2.exe.config
+C:\Users\Максим\Desktop\LabsForPractics\IZ2\IZ2\IZ2\bin\Debug\IZ2.exe
+C:\Users\Максим\Desktop\LabsForPractics\IZ2\IZ2\IZ2\bin\Debug\IZ2.pdb
+C:\Users\Максим\Desktop\LabsForPractics\IZ2\IZ2\IZ2\obj\Debug\IZ2.csproj.AssemblyReference.cache
+C:\Users\Максим\Desktop\LabsForPractics\IZ2\IZ2\IZ2\obj\Debug\IZ2.Form1.resources
+C:\Users\Максим\Desktop\LabsForPractics\IZ2\IZ2\IZ2\obj\Debug\IZ2.Properties.Resources.resources
+C:\Users\Максим\Desktop\LabsForPractics\IZ2\IZ2\IZ2\obj\Debug\IZ2.csproj.GenerateResource.cache
+C:\Users\Максим\Desktop\LabsForPractics\IZ2\IZ2\IZ2\obj\Debug\IZ2.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\LabsForPractics\IZ2\IZ2\IZ2\obj\Debug\IZ2.exe
+C:\Users\Максим\Desktop\LabsForPractics\IZ2\IZ2\IZ2\obj\Debug\IZ2.pdb

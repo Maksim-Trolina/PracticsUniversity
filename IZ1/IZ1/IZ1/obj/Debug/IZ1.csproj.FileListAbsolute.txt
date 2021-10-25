@@ -1,0 +1,10 @@
+C:\Users\Максим\Desktop\LabsForPractics\IZ1\IZ1\IZ1\bin\Debug\IZ1.exe.config
+C:\Users\Максим\Desktop\LabsForPractics\IZ1\IZ1\IZ1\bin\Debug\IZ1.exe
+C:\Users\Максим\Desktop\LabsForPractics\IZ1\IZ1\IZ1\bin\Debug\IZ1.pdb
+C:\Users\Максим\Desktop\LabsForPractics\IZ1\IZ1\IZ1\obj\Debug\IZ1.csproj.AssemblyReference.cache
+C:\Users\Максим\Desktop\LabsForPractics\IZ1\IZ1\IZ1\obj\Debug\IZ1.Form1.resources
+C:\Users\Максим\Desktop\LabsForPractics\IZ1\IZ1\IZ1\obj\Debug\IZ1.Properties.Resources.resources
+C:\Users\Максим\Desktop\LabsForPractics\IZ1\IZ1\IZ1\obj\Debug\IZ1.csproj.GenerateResource.cache
+C:\Users\Максим\Desktop\LabsForPractics\IZ1\IZ1\IZ1\obj\Debug\IZ1.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\LabsForPractics\IZ1\IZ1\IZ1\obj\Debug\IZ1.exe
+C:\Users\Максим\Desktop\LabsForPractics\IZ1\IZ1\IZ1\obj\Debug\IZ1.pdb

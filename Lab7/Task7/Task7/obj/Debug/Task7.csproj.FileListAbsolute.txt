@@ -1,0 +1,10 @@
+C:\Users\Максим\Desktop\LabsForPractics\Lab7\Task7\Task7\bin\Debug\Task7.exe.config
+C:\Users\Максим\Desktop\LabsForPractics\Lab7\Task7\Task7\bin\Debug\Task7.exe
+C:\Users\Максим\Desktop\LabsForPractics\Lab7\Task7\Task7\bin\Debug\Task7.pdb
+C:\Users\Максим\Desktop\LabsForPractics\Lab7\Task7\Task7\obj\Debug\Task7.csproj.AssemblyReference.cache
+C:\Users\Максим\Desktop\LabsForPractics\Lab7\Task7\Task7\obj\Debug\Task7.Properties.Resources.resources
+C:\Users\Максим\Desktop\LabsForPractics\Lab7\Task7\Task7\obj\Debug\Task7.csproj.GenerateResource.cache
+C:\Users\Максим\Desktop\LabsForPractics\Lab7\Task7\Task7\obj\Debug\Task7.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\LabsForPractics\Lab7\Task7\Task7\obj\Debug\Task7.exe
+C:\Users\Максим\Desktop\LabsForPractics\Lab7\Task7\Task7\obj\Debug\Task7.pdb
+C:\Users\Максим\Desktop\LabsForPractics\Lab7\Task7\Task7\obj\Debug\Task7.Form1.resources

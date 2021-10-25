@@ -1,0 +1,10 @@
+C:\Users\Максим\Desktop\LabsForPractics\Lab4\Task4\Task4\bin\Debug\Task4.exe.config
+C:\Users\Максим\Desktop\LabsForPractics\Lab4\Task4\Task4\bin\Debug\Task4.exe
+C:\Users\Максим\Desktop\LabsForPractics\Lab4\Task4\Task4\bin\Debug\Task4.pdb
+C:\Users\Максим\Desktop\LabsForPractics\Lab4\Task4\Task4\obj\Debug\Task4.csproj.AssemblyReference.cache
+C:\Users\Максим\Desktop\LabsForPractics\Lab4\Task4\Task4\obj\Debug\Task4.Form1.resources
+C:\Users\Максим\Desktop\LabsForPractics\Lab4\Task4\Task4\obj\Debug\Task4.Properties.Resources.resources
+C:\Users\Максим\Desktop\LabsForPractics\Lab4\Task4\Task4\obj\Debug\Task4.csproj.GenerateResource.cache
+C:\Users\Максим\Desktop\LabsForPractics\Lab4\Task4\Task4\obj\Debug\Task4.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\LabsForPractics\Lab4\Task4\Task4\obj\Debug\Task4.exe
+C:\Users\Максим\Desktop\LabsForPractics\Lab4\Task4\Task4\obj\Debug\Task4.pdb

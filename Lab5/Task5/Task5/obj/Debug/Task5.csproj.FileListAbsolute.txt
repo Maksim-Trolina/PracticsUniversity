@@ -1,0 +1,10 @@
+C:\Users\Максим\Desktop\LabsForPractics\Lab5\Task5\Task5\bin\Debug\Task5.exe.config
+C:\Users\Максим\Desktop\LabsForPractics\Lab5\Task5\Task5\bin\Debug\Task5.exe
+C:\Users\Максим\Desktop\LabsForPractics\Lab5\Task5\Task5\bin\Debug\Task5.pdb
+C:\Users\Максим\Desktop\LabsForPractics\Lab5\Task5\Task5\obj\Debug\Task5.csproj.AssemblyReference.cache
+C:\Users\Максим\Desktop\LabsForPractics\Lab5\Task5\Task5\obj\Debug\Task5.Form1.resources
+C:\Users\Максим\Desktop\LabsForPractics\Lab5\Task5\Task5\obj\Debug\Task5.Properties.Resources.resources
+C:\Users\Максим\Desktop\LabsForPractics\Lab5\Task5\Task5\obj\Debug\Task5.csproj.GenerateResource.cache
+C:\Users\Максим\Desktop\LabsForPractics\Lab5\Task5\Task5\obj\Debug\Task5.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\LabsForPractics\Lab5\Task5\Task5\obj\Debug\Task5.exe
+C:\Users\Максим\Desktop\LabsForPractics\Lab5\Task5\Task5\obj\Debug\Task5.pdb
